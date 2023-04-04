@@ -1,4 +1,4 @@
-const elements = {'text1': 'Hello', 'text2': 'Hallo', 'text3': 'Bonjour', 'speed': 2}
+const elements = {'text1': 'Hello', 'text2': 'Hallo', 'text3': 'Bonjour', 'speed': 10}
 
 setInterval(() => {
     const a = document.getElementById('test');
