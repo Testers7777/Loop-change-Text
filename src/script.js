@@ -1,7 +1,7 @@
 var text1 = 'Hello'
 var text2 = 'Hallo'
 var text3 = 'Bonjour'
-var speed = '60'
+var speed = '10' // avec cette valeur les textes ce changent toutes les 10 secondes
 
 setInterval(() => {
     const a = document.getElementById('test');
