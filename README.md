@@ -12,6 +12,8 @@ Ce projet est un projet javascript qui permet de faire défiler des textes en bo
 
 Pour utiliser le projet Loop Change Text, vous devez ouvrir le fichier `index.html`. Vous pouvez personnaliser les textes affichés en modifiant les variables `text1` / `text2` / `text3` dans le script. Vous pouvez également personnaliser la vitesse de changement de texte en modifiant la variable `speed`.
 
+⚠️ La valeur de la variable ``speed`` doit être en secondes !
+
 ## Personnalisation
 
 Si vous souhaitez personnaliser le script Loop Change Text, vous pouvez modifier le code javascript dans le fichier `script.js`.
