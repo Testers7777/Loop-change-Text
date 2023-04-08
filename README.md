@@ -14,10 +14,6 @@ Pour utiliser le projet Loop Change Text, vous devez ouvrir le fichier `index.ht
 
 ⚠️ La valeur de la variable `speed` doit être en secondes !
 
-## Personnalisation
-
-Si vous souhaitez personnaliser le script Loop Change Text, vous pouvez modifier le code javascript dans le fichier `script.js`.
-
 ## Auteur
 
 Ce projet a été réalisé par DIISLAY (Testers7777).
